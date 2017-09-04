@@ -1,22 +1,38 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
+- name: NYC Pedestrian Detection
+  i18n: nyc-ped
+  gh_user: trang-dam
+  repo: hadive
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Applied Convolutional Neural Network to detect pedestrians on low-resolution cameras.
 
-- name: Google
-  i18n: google
-  url: https://google.com
+- name: Urban Population Prediction
+  i18n: urban-pop
+  gh_user: trang-dam
+  repo: 
+  img: /static/assets/img/landing/jekyll.png
+  desc: 
+  - Predicted population based on Wifi user data, provided by Downtown Alliance in New York city
+  - Methods used: Spatio-Temporal Analysis, Decision Tree and Random Forest Regression
+  
+- name: Thando's
+  i18n: thandos
+  url: https://thandos.com/
   img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: We migrated the website from SquareSpace to Shopify and recommended the two founders a range of actionable marketing strategies to boost the brand awareness.
+
+- name: Hyper-temporal Imaging: An Alternative Technology to Monitor Grid Dynamics
+  i18n: hti
+  gh_user: fedhere
+  repo: detect120
+  img: /static/assets/img/landing/python.png
+  desc: The Urban Observatory at CUSP proposed a new method to monitor energy consumption at the neighborhood level using camera. The pipeline of the orginal study is revised for the new camera using Python scripts. The method is proved to be cost-feasible and applicable in non-first world countries.
+
+- name: NYC Starbucks Location Decision Modeling 
+  i18n: starbucks
+  url: https://google.com
+  img: /static/assets/img/landing/starbucks.png
+  desc: We determined the best location for Starbucks store in NYC at census tract level using Random Forest, Lasso, Ridge regression methods. 

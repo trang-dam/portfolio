@@ -1,29 +1,57 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Center for Urban Science and Progress, NYU
     i18n: company_a
   desc:
     detail: I worked at Company A ...
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: April 2017
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Graduate Research Assistant
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: New York Univercity
     i18n: company_b
   desc:
     detail: I worked at Company B ...
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: August 2016
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Graduate Student
     i18n: company_b_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Hanoi's Department of Finance
+    i18n: company_c
+  desc:
+    detail: I worked at Company B ...
+    i18n: company_c_desc
+  date:
+    detail: September 2015
+    i18n: company_c_date
+  job:
+    detail: Investment Officer
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: Adayroi.com
+    i18n: company_d
+  desc:
+    detail: I worked at Company B ...
+    i18n: company_d_desc
+  date:
+    detail: September 2015
+    i18n: company_d_date
+  job:
+    detail: Business Intelligence Analyst
+    i18n: company_d_job
   icon: fa-plus-square
