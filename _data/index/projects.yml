@@ -14,7 +14,7 @@
   gh_user: trang-dam
   repo: 
   img: /static/assets/img/landing/jekyll.png
-  desc: Predicted population based on Wifi user data, provided by Downtown Alliance in New York city. Methods used: Spatio-Temporal Analysis, Decision Tree and Random Forest Regression
+  desc: Predicted population based on Wifi user data, provided by Downtown Alliance in New York city. Methods used are Spatio-Temporal Analysis, Decision Tree and Random Forest Regression
   
 - name: Thando's
   i18n: thandos
