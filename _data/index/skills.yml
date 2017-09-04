@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, SQL,  Big Data Framework (Spark, Hadoop, MapReduce), HTML/CSS/Javascript, R, Social Media Analytics (Facebook Insights, Google Analytics, Twitter API), Dashboard (Excel, Tableau, Microsoft PowerBI)
+aspects: Python, SQL,  Big Data (Spark/Hadoop/MapReduce), HTML/CSS/Javascripts, R, Social Media Analytics (Facebook Insights/Google Analytics/Twitter API), Dashboard Design (Tableau/Microsoft PowerBI)
 percentage: 80, 70, 60, 40, 40, 80, 80
