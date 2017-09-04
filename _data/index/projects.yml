@@ -14,15 +14,15 @@
   gh_user: trang-dam
   repo: 
   img: /static/assets/img/landing/jekyll.png
-  desc: Predicted population based on Wifi user data, provided by Downtown Alliance in New York city. Methods used are Spatio-Temporal Analysis, Decision Tree and Random Forest Regression
+  desc: Predicted population based on Wifi user data, provided by Downtown Alliance in New York city.| Methods used are Spatio-Temporal Analysis, Decision Tree and Random Forest Regression
   
-- name: Thando's
+- name: Thandos
   i18n: thandos
   url: https://thandos.com/
   img: /static/assets/img/landing/google.png
   desc: We migrated the website from SquareSpace to Shopify and recommended the two founders a range of actionable marketing strategies to boost the brand awareness.
 
-- name: Hyper-temporal Imaging: An Alternative Technology to Monitor Grid Dynamics
+- name: Hyper-temporal Imaging, An Alternative Technology to Monitor Grid Dynamics
   i18n: hti
   gh_user: fedhere
   repo: detect120
