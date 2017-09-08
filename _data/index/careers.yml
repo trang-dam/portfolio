@@ -18,7 +18,7 @@
     detail: New York Univercity
     i18n: company_b
   desc:
-    detail: Explored different machine learning models and utilized them in solving real-world problems in location optimization, image processing, urban population, computer vision 
+    detail: Explored different machine learning models and utilized them in solving real-world problems in location optimization, image processing, urban population, and computer vision 
     i18n: company_b_desc
   date:
     detail: August 2016
@@ -46,7 +46,7 @@
     detail: Adayroi.com
     i18n: company_d
   desc:
-    detail: I contributed to the setting up of the whole's company reporting system; generated data-driven solutions to optimize the delivery lead time and marketing performance in all channels  
+    detail: I contributed to the setting up of the whole company's reporting system; generated data-driven solutions to optimize the delivery lead time and marketing performance in all channels  
     i18n: company_d_desc
   date:
     detail: September 2015
