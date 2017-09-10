@@ -4,7 +4,7 @@
     detail: Center for Urban Science and Progress, NYU
     i18n: company_a
   desc:
-    detail: Started my adventure in deep learning, using neural network to detect pedestrians on low-resolution cameras at real time
+    detail: Started my adventure in deep learning, using neural network to detect pedestrians on low-resolution cameras at real time.
     i18n: company_a_desc
   date:
     detail: April 2017
@@ -18,7 +18,7 @@
     detail: New York University
     i18n: company_b
   desc:
-    detail: Explored different machine learning models and utilized them in solving real-world problems in location optimization, image processing, urban population, and computer vision 
+    detail: Explored different machine learning models and utilized them in solving real-world problems in location optimization, image processing, urban population, and computer vision. 
     i18n: company_b_desc
   date:
     detail: August 2016
@@ -32,7 +32,7 @@
     detail: Hanoi's Department of Finance
     i18n: company_c
   desc:
-    detail: I built an integrated database for project tracking and optimized the city's budget allocation for public investment projects in 2015-2016
+    detail: I built an integrated database for project tracking and optimized the city's budget allocation for public investment projects in 2015-2016.
     i18n: company_c_desc
   date:
     detail: September 2015
@@ -46,7 +46,7 @@
     detail: Adayroi.com
     i18n: company_d
   desc:
-    detail: I contributed to the setting up of the whole company's reporting system; generated data-driven solutions to optimize the delivery lead time and marketing performance on all channels  
+    detail: I contributed to the setting up of the whole company's reporting system; generated data-driven solutions to optimize the delivery lead time and marketing performance on all channels.  
     i18n: company_d_desc
   date:
     detail: September 2015

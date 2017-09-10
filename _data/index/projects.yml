@@ -14,7 +14,7 @@
   gh_user: trang-dam
   repo: 
   img: /static/assets/img/landing/wifi.png
-  desc: Predicted population across time and space. The time invariants, spatial characteristics of the areas and the time variants, weather data and day fo the week are our main types of independent variables. based on Wifi user data, provided by Downtown Alliance in New York city. Methods used are Spatio-Temporal Analysis, Decision Tree and Random Forest Regression
+  desc: Predicted population across time and space. The time invariants, spatial characteristics of the areas and the time variants, weather data and day fo the week are our main types of independent variables. based on Wifi user data, provided by Downtown Alliance in New York city. Methods used are Spatio-Temporal Analysis, Decision Tree and Random Forest Regression.
   
 - name: Thandos
   i18n: thandos
