@@ -9,6 +9,8 @@ url: https://trang-dam.github.io/portfolio/ # url should be 'http://<github_user
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
+future: true
+
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Trang Dam  # Be used at blog posts' author.
@@ -28,7 +30,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I am a data scientist with experience in e-commerce, finance, and smart cities. When bugs drive me crazy, you will most likely to catch me wandering on streets, taking random photos  # Describe yourself.
+  desc: I am a data futurist and a random photo taker # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

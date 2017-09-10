@@ -33,4 +33,4 @@
   i18n: starbucks
   url: https://goo.gl/6tRDyp
   img: /static/assets/img/landing/starbucks.png
-  desc: We determined the best location for Starbucks store in NYC at census tract level, utilizing urban, and open data sources. Our main models are Random Forest, Lasso, Ridge Regression. 
+  desc: We determined the best location for the next Starbucks store in NYC at census tract level, utilizing urban, and open data sources. Our main models are Random Forest, Lasso, Ridge Regression. 
