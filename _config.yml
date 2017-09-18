@@ -30,7 +30,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: A continuous learner by nature and a firm believer in the power of data. I am into the intersection of numbers and narrative and keen on telling engaging data-driven stories. I look forward to learning new things with each progressing day and equipping myself with necessary skills to stay ahead of the technological shifts yet to come. # Describe yourself.
+  desc: A continuous learner by nature and a firm believer in the power of data. I am into the intersection of numbers and narrative, and keen on telling engaging data-driven stories. I look forward to learning new things with each progressing day and equipping myself with necessary skills to stay ahead of the technological shifts yet to come. # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

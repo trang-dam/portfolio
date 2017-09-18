@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, PostgreSQL, MySQL, Hadoop, MapReduce, Advanced Excel, D3.js, Leaflet, Media Analytics, Tableau, PowerBI
-percentage: 80, 70, 60, 50, 60, 90, 50, 60, 80, 70, 70
+aspects: Python, PostgreSQL, MySQL, Javascript, MapReduce, Advanced Excel, D3.js, Leaflet, Media Analytics, Tableau, PowerBI
+percentage: 80, 70, 60, 40, 60, 90, 40, 60, 80, 70, 70
